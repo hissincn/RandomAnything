@@ -1,15 +1,19 @@
 {
-  "name": "randomone",
+  "name": "randomanything",
   "version": "1.0.0",
-  "description": "Random one anything in list  you want.",
+  "description": "Random something in list  you want.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "random",
-    "randomone"
+    "randomanything"
   ],
   "author": "hissin'",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hissincn/RandomAnything.git"
+  }
 }
