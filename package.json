@@ -1,0 +1,15 @@
+{
+  "name": "randomone",
+  "version": "1.0.0",
+  "description": "Random one anything in list  you want.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "randomone"
+  ],
+  "author": "hissin'",
+  "license": "ISC"
+}
